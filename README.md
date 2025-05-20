@@ -11,7 +11,7 @@
 ### 🚀 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
