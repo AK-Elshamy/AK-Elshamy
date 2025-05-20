@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi, I'm Ahmed Elshamy 👋</h1>
 
 <p align="center">
@@ -21,15 +19,15 @@
 
 ### 🎯 Competitive Programming Profiles
 
-- 🟠 <img src="https://leetcode.com/favicon.ico" width="16"> [LeetCode - El_shamy](https://leetcode.com/El_shamy/)
-- 🔵 <img src="https://codeforces.org/s/0/favicon.ico" width="16"> [Codeforces - El-Shamy](https://codeforces.com/profile/El-Shamy)
+-  <img src="https://leetcode.com/favicon.ico" width="16"> [LeetCode - El_shamy](https://leetcode.com/El_shamy/)
+-  <img src="https://codeforces.org/s/0/favicon.ico" width="16"> [Codeforces - El-Shamy](https://codeforces.com/profile/El-Shamy)
 
 ---
 
 ### 📫 Contact Me
 
-- 📧 **Email**: [ahmed.khalid.elshamy37@gmail.com](mailto:ahmed.khalid.elshamy37@gmail.com)  
-- 💼 <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"> [LinkedIn - Ahmed Elshamy](https://www.linkedin.com/in/a-elshamy)
+- **Email**: [ahmed.khalid.elshamy37@gmail.com](mailto:ahmed.khalid.elshamy37@gmail.com)  
+- <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"> [LinkedIn - Ahmed Elshamy](https://www.linkedin.com/in/a-elshamy)
 
 ---
 
