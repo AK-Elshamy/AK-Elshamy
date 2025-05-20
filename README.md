@@ -68,6 +68,4 @@
 
 <h3 align="center">وَقُل رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedelshamy4&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelshamy4" />
 </p>
