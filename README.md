@@ -64,8 +64,12 @@
 
 <hr>
 
-<h3 align="center"><i>"Consistency is the key to mastery. Keep learning, keep growing!"</i> 🌱</h3>
 
 <h3 align="center">وَقُل رَّبِّ أَدْخِلْنِي مُدْخَلَ صِدْقٍ وَأَخْرِجْنِي مُخْرَجَ صِدْقٍ وَاجْعَل لِّي مِن لَّدُنكَ سُلْطَانًا نَّصِيرًا</h3>
+
+
+<h3 align="center"><i>"Consistency is the key to mastery. Keep learning, keep growing!"</i> 🌱</h3>
+
+
 
 </p>
