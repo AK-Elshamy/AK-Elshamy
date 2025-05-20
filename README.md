@@ -1,3 +1,4 @@
+<h1 align="center">✨ السلام عليكم ورحمة الله وبركاته ✨</h1>
 <h3 align="center">I'm Ahmed Elshamy — A Passionate Backend Developer & Problem Solver from Egypt 🇪🇬</h3>
 
 <p align="center">
@@ -51,16 +52,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://codeforces.com/profile/El-Shamy" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Codeforces_logo.svg/1200px-Codeforces_logo.svg.png" height="40" alt="Codeforces" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Codeforces_logo.svg" height="40" alt="Codeforces" />
   </a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AK-Elshamy&show_icons=true&theme=tokyonight" alt="AK-Elshamy" />
 </p>
 
 ---
