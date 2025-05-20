@@ -26,7 +26,7 @@
 
 ### 📫 Contact Me
 
-- **Email**: [ahmed.khalid.elshamy37@gmail.com](mailto:ahmed.khalid.elshamy37@gmail.com)  
+- 📧**Email**: [ahmed.khalid.elshamy37@gmail.com](mailto:ahmed.khalid.elshamy37@gmail.com)  
 - <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="16"> [LinkedIn - Ahmed Elshamy](https://www.linkedin.com/in/a-elshamy)
 
 ---
