@@ -1,6 +1,6 @@
 <h1 align="center">✨ السلام عليكم ورحمة الله وبركاته ✨</h1>
 
-<h3 align="center">I'm Ahmed Elshamy — A Passionate Backend Developer & Problem Solver from Egypt 🇪🇬</h3>
+<h3 align="center">I'm Ahmed Elshamy — A Passionate Backend Developer & Problem Solver from Egypt </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&color=FFA500&center=true&vCenter=true&lines=💻+Java,+C%2B%2B,+Git+%26+GitHub;⚔️+Competitive+Programming;🚀+Learning+DSA+%26+OOP;🎯+Building+Scalable+Solutions" alt="Typing SVG" />
