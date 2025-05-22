@@ -23,20 +23,28 @@
 <table>
 <tr>
 <td align="center" width="120">
+<a href="https://www.oracle.com/java/" target="_blank">
 <img src="https://skillicons.dev/icons?i=java" width="50" height="50" alt="Java"/>
 <br/><strong>Java</strong>
+</a>
 </td>
 <td align="center" width="120">
+<a href="https://isocpp.org/" target="_blank">
 <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
 <br/><strong>C++</strong>
+</a>
 </td>
 <td align="center" width="120">
+<a href="https://git-scm.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git"/>
 <br/><strong>Git</strong>
+</a>
 </td>
 <td align="center" width="120">
+<a href="https://github.com/" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub"/>
 <br/><strong>GitHub</strong>
+</a>
 </td>
 </tr>
 </table>
@@ -78,12 +86,12 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&langs_count=6&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshamy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshamy&layout=compact&langs_count=6&theme=github_dark"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Elshamy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -119,6 +127,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" alt="footer"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Elshamy&color=blue&style=flat)
 
 </div>
