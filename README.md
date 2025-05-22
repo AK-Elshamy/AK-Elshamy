@@ -82,21 +82,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahmed-Elshamy&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Elshamy&layout=compact&langs_count=6&theme=github_dark"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmed-Elshamy&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
