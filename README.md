@@ -103,7 +103,7 @@
 <div align="center">
 
 ### 🕌 
-<img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=16&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=وَقُل+رَّبِّ+أَدْخِلْنِي+مُدْخَلَ+صِدْقٍ+وَأَخْرِجْنِي+مُخْرَجَ+صِدْقٍ;وَاجْعَل+لِّي+مِن+لَّدُنكَ�+سُلْطَانًا+نَّصِيرًا" alt="Quranic Verse"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Amiri&size=16&duration=4000&pause=2000&color=36BCF7&center=true&vCenter=true&width=700&height=50&lines=وَقُل+رَّبِّ+أَدْخِلْنِي+مُدْخَلَ+صِدْقٍ+وَأَخْرِجْنِي+مُخْرَجَ+صِدْقٍ;وَاجْعَل+لِّي+مِن+لَّدُنكَ+سُلْطَانًا+نَّصِيرًا" alt="Quranic Verse"/>
 
 ---
 
