@@ -7,7 +7,7 @@
 
 </div>
 
-<h2 align="center">🛡️ Security RED Team Learner | 3rd Year CS Student @ BFCAI 🇪🇬</h2>
+<!-- <h2 align="center">🛡️ Security RED Team Learner | 3rd Year CS Student @ BFCAI 🇪🇬</h2> -->
 
 <div align="center">
   
